@@ -13,7 +13,7 @@ Shopware plugins are extensions that enhance the functionality and features of t
 
 ::: tip
 
-For projects customizations, it is recommended to use Bundles instead of plugins. As bundles are not managed via Administration and don't have lifecycle they offer full control over the project.
+For project customizations, it is recommended to use Bundles instead of plugins. As bundles are not managed via Administration and don't have lifecycle they offer full control over the project.
 
 :::
 
